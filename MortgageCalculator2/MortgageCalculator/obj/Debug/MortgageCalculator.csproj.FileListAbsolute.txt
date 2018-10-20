@@ -1,0 +1,26 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.FrmCal.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.FrmWeb.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator - Copy\MortgageCalculator\bin\Debug\MortgageCalculator.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator - Copy\MortgageCalculator\obj\Debug\MortgageCalculator.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator - Copy\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator - Copy\MortgageCalculator\obj\Debug\MortgageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator - Copy\MortgageCalculator\obj\Debug\MortgageCalculator.FrmCal.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator - Copy\MortgageCalculator\obj\Debug\MortgageCalculator.FrmWeb.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator - Copy\MortgageCalculator\obj\Debug\MortgageCalculator.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator - Copy\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator - Copy\MortgageCalculator\bin\Debug\MortgageCalculator.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\MortgageCalculator - Copy\MortgageCalculator\bin\Debug\MortgageCalculator.pdb
+E:\ITN6\C & C++\C#\MortgageCalculator2\MortgageCalculator2\MortgageCalculator\bin\Debug\MortgageCalculator.exe.config
+E:\ITN6\C & C++\C#\MortgageCalculator2\MortgageCalculator2\MortgageCalculator\obj\Debug\MortgageCalculator.exe
+E:\ITN6\C & C++\C#\MortgageCalculator2\MortgageCalculator2\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
+J:\ITN6\C & C++\C#\MortgageCalculator with tabs\MortgageCalculator2\MortgageCalculator\bin\Debug\MortgageCalculator.exe.config
+J:\ITN6\C & C++\C#\MortgageCalculator with tabs\MortgageCalculator2\MortgageCalculator\obj\Debug\MortgageCalculator.exe
+J:\ITN6\C & C++\C#\MortgageCalculator with tabs\MortgageCalculator2\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
